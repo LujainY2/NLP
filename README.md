@@ -5,6 +5,24 @@
 An interactive web app for **sentiment analysis** using text and image inputs. Built with **Streamlit** and powered by **Hugging Face Transformers** and **NLP preprocessing** techniques.
 
 ---
+## 🎥 App Demo Videos
+
+### 🔹 Untitled design (1)
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
+---
+
+### 🔹 Untitled design (2)
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
+---
+
+### 🔹 Screen Recording - Full App Flow
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
 
 ## 🔍 Features
 
@@ -28,19 +46,6 @@ This app includes **three powerful sentiment analysis tools** presented as expan
 
 ---
 
-## 📸 Screenshots
-
-### Untitled Design (1)
-> Shows raw vs cleaned text classification
-
-![Text Analysis](images/Untitled_design_1.png)
-
-### Untitled Design (2)
-> Shows image mood prediction results
-
-![Image Mood Detection](images/Untitled_design_2.png)
-
----
 
 ## ⚙️ Tech Stack
 
@@ -50,10 +55,3 @@ This app includes **three powerful sentiment analysis tools** presented as expan
 - **CNN / Facial Expression Classifier** for image analysis (e.g., FER2013 or pre-trained face model)
 
 ---
-
-## 🚀 Run the App Locally
-
-### Requirements
-
-```bash
-pip install -r requirements.txt
