@@ -9,10 +9,10 @@ An interactive web app for **sentiment analysis** using text and image inputs. B
 ## 🎥 Demo Images (Click to Watch Video)
 
 ### 🔹 Untitled Design (1)
-[![Sentiment Demo 1](images/sent1.png)](./sent1.mp4)
+[![Sentiment Demo 1](images/sent1.png)](./sent1.png)
 
 ### 🔹 Untitled Design (2)
-[![Sentiment Demo 2](images/sent2.png)](./sent2.mp4)
+[![Sentiment Demo 2](images/sent2.png)](./sent2.png)
 
 
 ## 🔍 Features
