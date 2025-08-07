@@ -5,23 +5,17 @@
 An interactive web app for **sentiment analysis** using text and image inputs. Built with **Streamlit** and powered by **Hugging Face Transformers** and **NLP preprocessing** techniques.
 
 ---
-## 🎥 App Demo Videos
 
-### 🔹 Untitled design (1)
+## 🎥 Demo Videos
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+### 🔹 Untitled Design (1)
+[▶️ Watch Untitled design (1)](./Untitled%20design%20(1).mp4)
 
----
+### 🔹 Untitled Design (2)
+[▶️ Watch Untitled design (2)](./Untitled%20design%20(2).mp4)
 
-### 🔹 Untitled design (2)
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
----
-
-### 🔹 Screen Recording - Full App Flow
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+### 🔹 Full App Recording
+[▶️ Watch Full App Demo](./Recording%202025-08-07%20132932.mp4)
 
 
 ## 🔍 Features
