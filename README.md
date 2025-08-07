@@ -6,14 +6,13 @@ An interactive web app for **sentiment analysis** using text and image inputs. B
 
 ---
 
-## 🎥 Demo Videos
+## 🎥 Demo Images (Click to Watch Video)
 
-### 🔹 
-[▶️ Watch Untitled design (1)](./sent1.mp4)
+### 🔹 Untitled Design (1)
+[![Sentiment Demo 1](images/sent1.png)](./sent1.mp4)
 
-### 🔹 
-[▶️ Watch Untitled design (2)](./sent2.mp4)
-
+### 🔹 Untitled Design (2)
+[![Sentiment Demo 2](images/sent2.png)](./sent2.mp4)
 
 
 ## 🔍 Features
