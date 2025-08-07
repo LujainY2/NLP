@@ -4,19 +4,7 @@
 
 An interactive web app for **sentiment analysis** using text and image inputs. Built with **Streamlit** and powered by **Hugging Face Transformers** and **NLP preprocessing** techniques.
 
----
-
-## 🎥 Demo Images (Click to Watch Video)
-
-### 🔹 pro img1
-![App Screenshot](sent1.png)
-
-### 🔹 pro img2
-![App Screenshot](sent2.png)
-
-### 🔹 pro img3
-![App Screenshot](sent3.png)
-
+![App Screenshot](img.mp4) 
 ## 🔍 Features
 
 This app includes **three powerful sentiment analysis tools** presented as expandable sections:
@@ -25,18 +13,19 @@ This app includes **three powerful sentiment analysis tools** presented as expan
 
 - Enter raw text and see whether the sentiment is **positive** or **negative**
 - Under the same expander, the text is processed with **basic NLP cleaning** (lowercase, punctuation removal, etc.), then re-evaluated
-
+![App Screenshot](sent1.png)
 ### 2. 📊 Dataset Review Rating (Hugging Face)
 
 - Upload a dataset (e.g., reviews)  
 - Automatically uses a **Hugging Face pre-trained sentiment model** to classify the review sentiment
 - Outputs labels such as: `POSITIVE`, `NEGATIVE`, or numeric scores depending on model
+![App Screenshot](sent2.png)
 
 ### 3. 😊 Image Mood Detector
 
 - Upload an image of a face
 - App predicts **"Happy"** or **"Sad"** based on facial expression using a lightweight image classifier
-
+![App Screenshot](sent3.png)
 ---
 
 
