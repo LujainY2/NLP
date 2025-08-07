@@ -4,7 +4,7 @@
 
 An interactive web app for **sentiment analysis** using text and image inputs. Built with **Streamlit** and powered by **Hugging Face Transformers** and **NLP preprocessing** techniques.
 
-![App Screenshot](vid.mp4) 
+![App Screenshot](img.png) 
 ## 🔍 Features
 
 This app includes **three powerful sentiment analysis tools** presented as expandable sections:
